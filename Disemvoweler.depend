@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1414874050 source:c:\users\luke\documents\cpp_projects\disemvoweler\main.cpp
+	<stdio.h>
+	<iostream>
+
