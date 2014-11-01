@@ -22,7 +22,7 @@ int main()
                tolower(inputText[pos]) == 'o' || tolower(inputText[pos]) == 'u'){
                 outputText2 += inputText[pos];
             }else if(!isalpha(inputText[pos])){
-                // Do nothing if character is not a letter
+                continue;
             }else{
                 outputText1 += inputText[pos];
             }
